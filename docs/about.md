@@ -1,1 +1,1 @@
-[back_to_index](index.md)
+[back to index](index.md)
