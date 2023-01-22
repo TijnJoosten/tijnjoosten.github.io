@@ -1,3 +1,3 @@
 # index
-- [about](about.md)
-- [education](education/education.md)
+- [About Me](about.md)
+- [Education](education/education.md)
