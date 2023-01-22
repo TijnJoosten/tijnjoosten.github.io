@@ -12,4 +12,4 @@ To Do:
 - Add career information
 - Add information about my personal hobies/projects (e.g., bug bounties/programming)
 
-[back to index](docs/index.md)
+[back to index](index.md)
