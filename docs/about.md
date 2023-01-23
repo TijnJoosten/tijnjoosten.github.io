@@ -1,5 +1,3 @@
-# About
-
 ## General Information
 
 My name is Tijn Joosten. As of now, I am a student at the Radboud University in Nijmegen. Currently, I am following the Master 'Cyber Security', but next year I am thinking about switching to the Master 'AI and Cyber Security'. This is due to the fact that I have already completed a Bachelors in AI, meaning that this Master simply fits better to my interests and knowledge. <br>
