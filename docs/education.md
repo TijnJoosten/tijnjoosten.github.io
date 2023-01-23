@@ -1,4 +1,4 @@
-[home](home.md) -> [todo](education.md)
+[home](home.md) -> [education](education.md)
 
 # Education
 
