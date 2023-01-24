@@ -1,4 +1,4 @@
-[home](home.md) -> [todo](todo.md)
+[home](index.md) -> [todo](todo.md)
 
 # To Do
 
@@ -14,4 +14,4 @@ To Do:
 - Add information about my personal hobbies/projects (e.g., bug bounties/programming)
 - Add a custom layout with css/html
 
-[back to homepage](home.md)
+[back to homepage](index.md)
