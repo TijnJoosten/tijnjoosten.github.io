@@ -4,4 +4,5 @@ Hello, welcome to my (Work In Process) page! The aim of this site is to provide 
 
 - [About Me](about.md)
 - [Education](education/education.md)
+- [Projects](projects.md)
 - [todo](todo.md)
