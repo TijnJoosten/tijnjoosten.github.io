@@ -3,5 +3,5 @@ Hello, welcome to my (Work In Process) page! The aim of this site is to provide 
 # index
 
 - [About Me](about.md)
-- [Education](education.md)
+- [Education](education/education.md)
 - [todo](todo.md)
