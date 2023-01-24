@@ -1,1 +1,1 @@
-[home](index.md) -> [education](education.md) -> [past education](past_education.md)
+[home](../index.md) -> [education](education.md) -> [past education](past_education.md)

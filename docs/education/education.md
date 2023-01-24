@@ -1,4 +1,4 @@
-[home](index.md) -> [education](education.md)
+[home](../index.md) -> [education](education.md)
 
 # Education
 
@@ -8,4 +8,4 @@ My education career path can be split up in three parts; pre-university, univers
 - [university](university.md)
 - [extracurricular](extracurricular.md)
 
-[back to homepage](index.md)
+[back to homepage](../index.md)
