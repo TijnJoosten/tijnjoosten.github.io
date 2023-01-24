@@ -9,6 +9,6 @@ Apart from studying, my main hobbies can be found on my PC. I spend almost all m
 
 ## Contact Me
 If you would like to get into contact with me, the best option would be to message me on <a href="https://www.linkedin.com/in/tijnjoosten/" target="_blank">LinkedIn</a> <br> 
-You can also send me an email, but I will likely think it is spam if I don't recognise your name.
+You can also send me an email, but I will likely think it is spam if I don't recognize your name.
 
 [back to homepage](home.md)

@@ -1,4 +1,4 @@
-Hello, welcome to my (Work In Proces) page! The aim of this site is to provide some information about myself and create an overview of all my (work related) projects. I hope you enjoy your stay!
+Hello, welcome to my (Work In Process) page! The aim of this site is to provide some information about myself and create an overview of all my (work related) projects. I hope you enjoy your stay!
 
 # index
 
