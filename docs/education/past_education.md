@@ -1,0 +1,1 @@
+[home](index.md) -> [education](education.md) -> [past education](past_education.md)
