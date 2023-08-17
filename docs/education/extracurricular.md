@@ -1,1 +1,0 @@
-[home](../index.md) -> [education](education.md) -> [extracurricular](extracurricular.md)
